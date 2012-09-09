@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sieve of Eratosthenes", "Sieve of Eratosthenes\Sieve of Eratosthenes.csproj", "{0C9E43A8-9DF7-4DE2-92CE-BF38234BAA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9E43A8-9DF7-4DE2-92CE-BF38234BAA94}.Debug|x86.ActiveCfg = Debug|x86
+		{0C9E43A8-9DF7-4DE2-92CE-BF38234BAA94}.Debug|x86.Build.0 = Debug|x86
+		{0C9E43A8-9DF7-4DE2-92CE-BF38234BAA94}.Release|x86.ActiveCfg = Release|x86
+		{0C9E43A8-9DF7-4DE2-92CE-BF38234BAA94}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
